@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{966dee21-0a8a-2dce-b78d-570e4a34a9a3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leopotam.Ecs", "Leopotam.Ecs.csproj", "{d7e5ffbb-a0d2-4aa9-d456-b7ec843ee782}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leopotam.Ecs.UnityIntegration.Editor", "Leopotam.Ecs.UnityIntegration.Editor.csproj", "{d10b86e2-9f1c-8ae8-1544-efd6e28aebe9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leopotam.Ecs.UnityIntegration", "Leopotam.Ecs.UnityIntegration.csproj", "{fb351934-661d-5808-a91b-0f4753342242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{966dee21-0a8a-2dce-b78d-570e4a34a9a3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{966dee21-0a8a-2dce-b78d-570e4a34a9a3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d7e5ffbb-a0d2-4aa9-d456-b7ec843ee782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d7e5ffbb-a0d2-4aa9-d456-b7ec843ee782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d10b86e2-9f1c-8ae8-1544-efd6e28aebe9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d10b86e2-9f1c-8ae8-1544-efd6e28aebe9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb351934-661d-5808-a91b-0f4753342242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb351934-661d-5808-a91b-0f4753342242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
